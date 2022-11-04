@@ -8,7 +8,8 @@ When it comes to Data Analysis I "Excel"
 
 *   🌍  I'm based in California
 *   ✉️  You can contact me at [contactsuakwon@gmail.com](mailto:contactsuakwon@gmail.com)
-*   🧠  I'm learning Streamlit, BigQuery and Looker Dashboard<a href="https://www.github.com/k-sua" target="_blank" rel="noreferrer"><img
+*   🧠  I'm learning Streamlit, BigQuery and Looker Dashboard
+<a href="https://www.github.com/k-sua" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/k-sua?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
